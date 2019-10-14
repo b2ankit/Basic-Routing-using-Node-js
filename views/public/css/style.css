@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 550px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+}
+.main h3{
+    text-align: center;
+    color: rgb(61, 31, 31);
+    margin: 0; 
+    padding: 10px; 
+    padding-top: 20px;
+    font-size: 23px;
+}
